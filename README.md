@@ -2,7 +2,7 @@
 
 ## Our Drainer is a tool library that allows easy theft of all NFT assets and wallet token assets in one signature until the victim's wallet is empty. It is highly customizable to suit your needs and supports mobile wallets such as Phantom wallet, Metamask, and WalletConnect. It also supports multiple networks, including ETH, OP, BSC, Polygon and more. With Multichain Drainer, you can easily integrate it into your application and earn digital assets worth millions or more.
 ## 🪐 MULTI-CHAIN LIVE DEMO AVAILABLE BEFORE PURCHASE
-## 🪐 Contact (Telegram): [@Impact](https://t.me/impact)
+## 🪐 Contact (Telegram): [@impact](https://t.me/impact)
 
 
 ### 🛍 Multichain Price: $1000 🏷️ (Full source code) 🛍
